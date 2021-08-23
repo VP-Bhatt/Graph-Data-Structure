@@ -11,3 +11,10 @@ There are different types of graph
 
 ### This repository includes following codes / examples ( all in c++):
 1. Representation of graph using adjacency List.
+2. Breadth First Search : it is an algorithm to traverse in graph depending on the order of occurances of nodes in the graph. For example, 1--2--3  the answer will be 1 2 4 3 5
+                    |     |
+                    4     5
+3. Depth First Search : it is an algorithm to traverse in graph depending on the occurence of nodes in depth of the graph. For example,  1--2--3 the answer will be 1 4 2 3 5 or 1 2 3 5 4 both possible 
+                     |     |
+                     4     5
+4. 
