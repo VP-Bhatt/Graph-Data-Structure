@@ -9,5 +9,5 @@ There are different types of graph
     * Graph with directed edges, its also of two types cyclic and acyclic.
 
 
-This repository includes following codes / examples:
-### Representation of graph in adjacency matrices using vector.
+### This repository includes following codes / examples ( all in c++):
+1. Representation of graph using adjacency List.
