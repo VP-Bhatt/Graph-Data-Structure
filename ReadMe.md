@@ -13,4 +13,12 @@ There are different types of graph
 1. Representation of graph using adjacency List.
 2. Breadth First Search : it is an algorithm to traverse in graph depending on the order of occurances of nodes in the graph. 
 3. Depth First Search : it is an algorithm to traverse in graph depending on the occurence of nodes in depth of the graph.
-4. 
+4. cycle detection in un-directed graph using bfs
+5. cycle detection in un-directed graph using dfs
+6. Detecting is the undirected graph bipartite or not using bfs. 
+|   A graph is said to be bipartite if each node in the graph can be assigned 0 or 1 in such a way that any two adjacent node does not have same value. 
+|   If an undirected graph have a cycle of odd number of nodes is always Bipartite.
+7. Detecting is the undirected graph bipartite or not using dfs.
+8. Cycle detection in a directed graph using bfs.
+9. cycle detection in a directed graph using dfs.
+10. Topolgical Sorting in a directed graph using dfs.
