@@ -24,5 +24,6 @@ There are different types of graph
 7. Detecting is the undirected graph bipartite or not using dfs.
 8. Cycle detection in a directed graph using bfs.
 9. cycle detection in a directed graph using dfs.
+> Topological sort is only possible when give graph is DIRECTED and ACYCLIC.
 10. Topolgical Sorting in a directed graph using dfs.
 11. Topolgical Sorting in a directed graph using bfs or known as *Kahn's Algorithm*.
